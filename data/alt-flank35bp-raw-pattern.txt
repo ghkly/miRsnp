@@ -1,0 +1,1065 @@
+target: ENST00000202917_rs1131476_12_112919404_G_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -15.5 kcal/mol
+p-value: 0.983613
+
+position  1
+target 5'   U  GC    UGGA      U 3'
+             GA   UCC    UUCUGC    
+             CU   AGG    GGGACG    
+miRNA  3' GUU  AAU   UAA       C 5'
+
+
+target: ENST00000202917_rs1131476_12_112919404_G_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -15.5 kcal/mol
+p-value: 0.983613
+
+position  1
+target 5'   U  GC    UGGA      U 3'
+             GA   UCC    UUCUGC    
+             CU   AGG    GGGACG    
+miRNA  3' GUU  AAU   UAA       C 5'
+
+
+target: ENST00000202917_rs1131476_12_112919404_G_T_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -15.5 kcal/mol
+p-value: 0.983613
+
+position  1
+target 5'   U  GC    UGGA      U 3'
+             GA   UCC    UUCUGC    
+             CU   AGG    GGGACG    
+miRNA  3' GUU  AAU   UAA       C 5'
+
+
+target: ENST00000551241_rs1859333_12_112933161_T_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -18.8 kcal/mol
+p-value: 0.361516
+
+position  29
+target 5'        C    C       U 3'
+                  UCUA  CCCUGC    
+                  AGGU  GGGACG    
+miRNA  3' GUUCUAAU    AA      C 5'
+
+
+target: ENST00000617231_rs74956615_19_10317045_T_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -13.5 kcal/mol
+p-value: 1.000000
+
+position  7
+target 5' A    C     CCUUUUUUUUUAA      C 3'
+           GAGA UGUCU             CUUUGU    
+           UUCU AUAGG             GGGACG    
+miRNA  3' G    A     UAA                C 5'
+
+
+target: ENST00000617231_rs74956615_19_10317045_T_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -10.0 kcal/mol
+p-value: 1.000000
+
+position  44
+target 5'              C      U 3'
+                        UUCUGU    
+                        GGGACG    
+miRNA  3' GUUCUAAUAGGUAA      C 5'
+
+
+target: ENST00000592208_rs74956615_19_10317045_T_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -13.5 kcal/mol
+p-value: 1.000000
+
+position  7
+target 5' A    C     CCUUUUUUUUUAA      C 3'
+           GAGA UGUCU             CUUUGU    
+           UUCU AUAGG             GGGACG    
+miRNA  3' G    A     UAA                C 5'
+
+
+target: ENST00000592208_rs74956615_19_10317045_T_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -10.0 kcal/mol
+p-value: 1.000000
+
+position  44
+target 5'              C      U 3'
+                        UUCUGU    
+                        GGGACG    
+miRNA  3' GUUCUAAUAGGUAA      C 5'
+
+
+target: ENST00000611074_rs74956615_19_10317045_T_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -13.5 kcal/mol
+p-value: 1.000000
+
+position  7
+target 5' A    C     CCUUUUUUUUUAA      C 3'
+           GAGA UGUCU             CUUUGU    
+           UUCU AUAGG             GGGACG    
+miRNA  3' G    A     UAA                C 5'
+
+
+target: ENST00000611074_rs74956615_19_10317045_T_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -10.0 kcal/mol
+p-value: 1.000000
+
+position  44
+target 5'              C      U 3'
+                        UUCUGU    
+                        GGGACG    
+miRNA  3' GUUCUAAUAGGUAA      C 5'
+
+
+target: ENST00000535325_rs1994491_3_45918928_G_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -16.0 kcal/mol
+p-value: 0.947085
+
+position  1
+target 5'      ACAUG   AC      C 3'
+            AGA     CCA  CUCUGU    
+            UCU     GGU  GGGACG    
+miRNA  3' GU   AAUA    AA      C 5'
+
+
+target: ENST00000535325_rs75928798_3_45921111_A_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -13.2 kcal/mol
+p-value: 1.000000
+
+position  36
+target 5'      C      GGUGA      C 3'
+                UGUCUG     UUCUGU    
+                AUAGGU     GGGACG    
+miRNA  3' GUUCUA      AA         C 5'
+
+
+target: ENST00000296137_rs1994491_3_45918928_G_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -16.0 kcal/mol
+p-value: 0.947085
+
+position  1
+target 5'      ACAUG   AC      C 3'
+            AGA     CCA  CUCUGU    
+            UCU     GGU  GGGACG    
+miRNA  3' GU   AAUA    AA      C 5'
+
+
+target: ENST00000296137_rs75928798_3_45921111_A_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -13.2 kcal/mol
+p-value: 1.000000
+
+position  36
+target 5'      C      GGUGA      C 3'
+                UGUCUG     UUCUGU    
+                AUAGGU     GGGACG    
+miRNA  3' GUUCUA      AA         C 5'
+
+
+target: ENST00000433878_rs1994491_3_45918928_G_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -16.0 kcal/mol
+p-value: 0.947085
+
+position  1
+target 5'      ACAUG   AC      C 3'
+            AGA     CCA  CUCUGU    
+            UCU     GGU  GGGACG    
+miRNA  3' GU   AAUA    AA      C 5'
+
+
+target: ENST00000433878_rs75928798_3_45921111_A_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -13.2 kcal/mol
+p-value: 1.000000
+
+position  36
+target 5'      C      GGUGA      C 3'
+                UGUCUG     UUCUGU    
+                AUAGGU     GGGACG    
+miRNA  3' GUUCUA      AA         C 5'
+
+
+target: ENST00000471739_rs11338292_3_45984717_CA_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -21.1 kcal/mol
+p-value: 0.091359
+
+position  53
+target 5'      A               U 3'
+                UAUCCA  CCUUGUG    
+                AUAGGU  GGGACGC    
+miRNA  3' GUUCUA      AA         5'
+
+
+target: ENST00000309285_rs13074382_3_46020348_A_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -12.0 kcal/mol
+p-value: 1.000000
+
+position  12
+target 5' G    AAUG           A 3'
+           GAGA         UUCUGU    
+           UUCU         GGGACG    
+miRNA  3' G    AAUAGGUAA      C 5'
+
+
+target: ENST00000309285_rs2230322_3_46021837_T_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -17.1 kcal/mol
+p-value: 0.754512
+
+position  25
+target 5'         A   CUG      A 3'
+                   CCA   UCCUGU    
+                   GGU   GGGACG    
+miRNA  3' GUUCUAAUA   AA       C 5'
+
+
+target: ENST00000309285_rs2230322_3_46021837_T_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -15.7 kcal/mol
+p-value: 0.972533
+
+position  1
+target 5'         G  UGGG       U 3'
+                   CC    UCUUUGC    
+                   GG    AGGGACG    
+miRNA  3' GUUCUAAUA  UA         C 5'
+
+
+target: ENST00000309285_rs36040135_3_46019812_A_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -15.8 kcal/mol
+p-value: 0.965313
+
+position  28
+target 5'  C   C              C 3'
+            AGG UGUC    CUCUGC    
+            UCU AUAG    GGGACG    
+miRNA  3' GU   A    GUAA      C 5'
+
+
+target: ENST00000309285_rs71327006_3_46017416_G_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -16.9 kcal/mol
+p-value: 0.799374
+
+position  1
+target 5'         C    GAGC        A 3'
+                   CCAU    UUCUUGUG    
+                   GGUA    AGGGACGC    
+miRNA  3' GUUCUAAUA                  5'
+
+
+target: ENST00000309285_rs71327006_3_46017416_G_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -11.7 kcal/mol
+p-value: 1.000000
+
+position  48
+target 5'       C             U 3'
+                 AUCU  UUUUUGU    
+                 UAGG  AGGGACG    
+miRNA  3' GUUCUAA    UA       C 5'
+
+
+target: ENST00000395946_rs876668_3_46022261_T_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -18.7 kcal/mol
+p-value: 0.381099
+
+position  38
+target 5'       G   A  GC       A 3'
+                 AUC CA  UCUCUGC    
+                 UAG GU  AGGGACG    
+miRNA  3' GUUCUAA      A        C 5'
+
+
+target: ENST00000357422_rs4987053_3_46265209_T_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -18.2 kcal/mol
+p-value: 0.488893
+
+position  36
+target 5'   C   GACGUGGG  UG        A 3'
+             GAU        CC   CUCUGUG    
+             CUA        GG   GGGACGC    
+miRNA  3' GUU   AUA       UAA         5'
+
+
+target: ENST00000296140_rs199900344_3_46202791_GGA_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -11.5 kcal/mol
+p-value: 1.000000
+
+position  14
+target 5'             A       U 3'
+                       UUUCUGU    
+                       AGGGACG    
+miRNA  3' GUUCUAAUAGGUA       C 5'
+
+
+target: ENST00000296140_rs3774630_3_46202782_C_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -11.5 kcal/mol
+p-value: 1.000000
+
+position  5
+target 5'             A       U 3'
+                       UUUCUGU    
+                       AGGGACG    
+miRNA  3' GUUCUAAUAGGUA       C 5'
+
+
+target: ENST00000296140_rs3774630_3_46202782_C_T_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -11.5 kcal/mol
+p-value: 1.000000
+
+position  5
+target 5'             A       U 3'
+                       UUUCUGU    
+                       AGGGACG    
+miRNA  3' GUUCUAAUAGGUA       C 5'
+
+
+target: ENST00000545097_rs4987053_3_46265209_T_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -18.2 kcal/mol
+p-value: 0.488893
+
+position  36
+target 5'   C   GACGUGGG  UG        A 3'
+             GAU        CC   CUCUGUG    
+             CUA        GG   GGGACGC    
+miRNA  3' GUU   AUA       UAA         5'
+
+
+target: ENST00000452454_rs4987053_3_46265209_T_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -18.2 kcal/mol
+p-value: 0.488893
+
+position  36
+target 5'   C   GACGUGGG  UG        A 3'
+             GAU        CC   CUCUGUG    
+             CUA        GG   GGGACGC    
+miRNA  3' GUU   AUA       UAA         5'
+
+
+target: ENST00000395940_rs4987053_3_46265209_T_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -18.2 kcal/mol
+p-value: 0.488893
+
+position  36
+target 5'   C   GACGUGGG  UG        A 3'
+             GAU        CC   CUCUGUG    
+             CUA        GG   GGGACGC    
+miRNA  3' GUU   AUA       UAA         5'
+
+
+target: ENST00000475150_rs17217831_3_46263950_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -15.1 kcal/mol
+p-value: 0.995381
+
+position  54
+target 5'       C    UCAC      C 3'
+                 AUCU    CCUUGU    
+                 UAGG    GGGACG    
+miRNA  3' GUUCUAA    UAA       C 5'
+
+
+target: ENST00000475150_rs4987053_3_46265209_T_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -18.2 kcal/mol
+p-value: 0.488893
+
+position  36
+target 5'   C   GACGUGGG  UG        A 3'
+             GAU        CC   CUCUGUG    
+             CUA        GG   GGGACGC    
+miRNA  3' GUU   AUA       UAA         5'
+
+
+target: ENST00000395942_rs4987053_3_46265209_T_C_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -18.2 kcal/mol
+p-value: 0.488893
+
+position  36
+target 5'   C   GACGUGGG  UG        A 3'
+             GAU        CC   CUCUGUG    
+             CUA        GG   GGGACGC    
+miRNA  3' GUU   AUA       UAA         5'
+
+
+target: ENST00000399036_rs3204850_3_46408806_A_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -13.2 kcal/mol
+p-value: 1.000000
+
+position  4
+target 5' A     AUAG  UUUUCAAGCUUG       C 3'
+           GAGGU    CC            UUUUUGC    
+           UUCUA    GG            AGGGACG    
+miRNA  3' G     AUA   UA                 C 5'
+
+
+target: ENST00000357392_rs3204850_3_46408806_A_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -13.2 kcal/mol
+p-value: 1.000000
+
+position  4
+target 5' A     AUAG  UUUUCAAGCUUG       C 3'
+           GAGGU    CC            UUUUUGC    
+           UUCUA    GG            AGGGACG    
+miRNA  3' G     AUA   UA                 C 5'
+
+
+target: ENST00000400880_rs3204850_3_46408806_A_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -13.2 kcal/mol
+p-value: 1.000000
+
+position  4
+target 5' A     AUAG  UUUUCAAGCUUG       C 3'
+           GAGGU    CC            UUUUUGC    
+           UUCUA    GG            AGGGACG    
+miRNA  3' G     AUA   UA                 C 5'
+
+
+target: ENST00000400882_rs3204850_3_46408806_A_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -13.2 kcal/mol
+p-value: 1.000000
+
+position  4
+target 5' A     AUAG  UUUUCAAGCUUG       C 3'
+           GAGGU    CC            UUUUUGC    
+           UUCUA    GG            AGGGACG    
+miRNA  3' G     AUA   UA                 C 5'
+
+
+target: ENST00000396268_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.066196
+
+position  43
+target 5' G     GGCGC  AAGAC      A 3'
+           GAGAU     UC     CCCUGC    
+           UUCUA     AG     GGGACG    
+miRNA  3' G     AU     GUAA       C 5'
+
+
+target: ENST00000396268_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -17.7 kcal/mol
+p-value: 0.608929
+
+position  11
+target 5'         C   GG      U 3'
+                   UCA  CCUUGC    
+                   GGU  GGGACG    
+miRNA  3' GUUCUAAUA   AA      C 5'
+
+
+target: ENST00000396268_rs72856720_6_31157625_C_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -26.4 kcal/mol
+p-value: 0.002727
+
+position  42
+target 5' G    GG     G       A 3'
+           GGGA  GUCUA  CCCUGC    
+           UUCU  UAGGU  GGGACG    
+miRNA  3' G    AA     AA      C 5'
+
+
+target: ENST00000396268_rs72856720_6_31157625_C_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -11.5 kcal/mol
+p-value: 1.000000
+
+position  1
+target 5'                     C 3'
+                        UUCUGC    
+                        GGGACG    
+miRNA  3' GUUCUAAUAGGUAA      C 5'
+
+
+target: ENST00000451521_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.066196
+
+position  43
+target 5' G     GGCGC  AAGAC      A 3'
+           GAGAU     UC     CCCUGC    
+           UUCUA     AG     GGGACG    
+miRNA  3' G     AU     GUAA       C 5'
+
+
+target: ENST00000451521_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -17.7 kcal/mol
+p-value: 0.608929
+
+position  11
+target 5'         C   GG      U 3'
+                   UCA  CCUUGC    
+                   GGU  GGGACG    
+miRNA  3' GUUCUAAUA   AA      C 5'
+
+
+target: ENST00000467553_rs130072_6_31144707_C_T_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -21.1 kcal/mol
+p-value: 0.091359
+
+position  48
+target 5' C     CCGG           A 3'
+           CAAGG    CCA  CCUUGC    
+           GUUCU    GGU  GGGACG    
+miRNA  3'       AAUA   AA      C 5'
+
+
+target: ENST00000486060_rs130072_6_31144707_C_T_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -19.0 kcal/mol
+p-value: 0.324493
+
+position  48
+target 5' C    G       GUGAG      C 3'
+           CAAG     CCG     CCUUGC    
+           GUUC     GGU     GGGACG    
+miRNA  3'      UAAUA   AA         C 5'
+
+
+target: ENST00000509552_rs130072_6_31144707_C_T_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -19.0 kcal/mol
+p-value: 0.324493
+
+position  48
+target 5' C    G       GUGAG      C 3'
+           CAAG     CCG     CCUUGC    
+           GUUC     GGU     GGGACG    
+miRNA  3'      UAAUA   AA         C 5'
+
+
+target: ENST00000455279_rs720468_6_31158216_C_G_2
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -17.1 kcal/mol
+p-value: 0.754512
+
+position  46
+target 5'   C     G           U 3'
+             GGUUG      CCUUGC    
+             CUAAU      GGGACG    
+miRNA  3' GUU     AGGUAA      C 5'
+
+
+target: ENST00000455279_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.066196
+
+position  43
+target 5' G     GGCGC  AAGAC      A 3'
+           GAGAU     UC     CCCUGC    
+           UUCUA     AG     GGGACG    
+miRNA  3' G     AU     GUAA       C 5'
+
+
+target: ENST00000455279_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -17.1 kcal/mol
+p-value: 0.754512
+
+position  10
+target 5'   C     G           U 3'
+             GGUUG      CCUUGC    
+             CUAAU      GGGACG    
+miRNA  3' GUU     AGGUAA      C 5'
+
+
+target: ENST00000426967_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.066196
+
+position  43
+target 5' G     GGCGC  AAGAC      A 3'
+           GAGAU     UC     CCCUGC    
+           UUCUA     AG     GGGACG    
+miRNA  3' G     AU     GUAA       C 5'
+
+
+target: ENST00000426967_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -17.7 kcal/mol
+p-value: 0.608929
+
+position  11
+target 5'         C   GG      U 3'
+                   UCA  CCUUGC    
+                   GGU  GGGACG    
+miRNA  3' GUUCUAAUA   AA      C 5'
+
+
+target: ENST00000426967_rs72856720_6_31157625_C_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -26.4 kcal/mol
+p-value: 0.002727
+
+position  42
+target 5' G    GG     G       A 3'
+           GGGA  GUCUA  CCCUGC    
+           UUCU  UAGGU  GGGACG    
+miRNA  3' G    AA     AA      C 5'
+
+
+target: ENST00000426967_rs72856720_6_31157625_C_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -11.5 kcal/mol
+p-value: 1.000000
+
+position  1
+target 5'                     C 3'
+                        UUCUGC    
+                        GGGACG    
+miRNA  3' GUUCUAAUAGGUAA      C 5'
+
+
+target: ENST00000507829_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.066196
+
+position  43
+target 5' G     GGCGC  AAGAC      A 3'
+           GAGAU     UC     CCCUGC    
+           UUCUA     AG     GGGACG    
+miRNA  3' G     AU     GUAA       C 5'
+
+
+target: ENST00000507829_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -17.1 kcal/mol
+p-value: 0.754512
+
+position  10
+target 5'   C     G           U 3'
+             GGUUG      CCUUGC    
+             CUAAU      GGGACG    
+miRNA  3' GUU     AGGUAA      C 5'
+
+
+target: ENST00000507226_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.066196
+
+position  43
+target 5' G     GGCGC  AAGAC      A 3'
+           GAGAU     UC     CCCUGC    
+           UUCUA     AG     GGGACG    
+miRNA  3' G     AU     GUAA       C 5'
+
+
+target: ENST00000507226_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -17.1 kcal/mol
+p-value: 0.754512
+
+position  10
+target 5'   C     G           U 3'
+             GGUUG      CCUUGC    
+             CUAAU      GGGACG    
+miRNA  3' GUU     AGGUAA      C 5'
+
+
+target: ENST00000488920_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.066196
+
+position  43
+target 5' G     GGCGC  AAGAC      A 3'
+           GAGAU     UC     CCCUGC    
+           UUCUA     AG     GGGACG    
+miRNA  3' G     AU     GUAA       C 5'
+
+
+target: ENST00000488920_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -17.7 kcal/mol
+p-value: 0.608929
+
+position  11
+target 5'         C   GG      U 3'
+                   UCA  CCUUGC    
+                   GGU  GGGACG    
+miRNA  3' GUUCUAAUA   AA      C 5'
+
+
+target: ENST00000488920_rs72856720_6_31157625_C_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -26.4 kcal/mol
+p-value: 0.002727
+
+position  42
+target 5' G    GG     G       A 3'
+           GGGA  GUCUA  CCCUGC    
+           UUCU  UAGGU  GGGACG    
+miRNA  3' G    AA     AA      C 5'
+
+
+target: ENST00000488920_rs72856720_6_31157625_C_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -11.5 kcal/mol
+p-value: 1.000000
+
+position  1
+target 5'                     C 3'
+                        UUCUGC    
+                        GGGACG    
+miRNA  3' GUUCUAAUAGGUAA      C 5'
+
+
+target: ENST00000507892_rs720467_6_31158022_G_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -19.5 kcal/mol
+p-value: 0.244550
+
+position  45
+target 5'  U    GAAG  UCGGG      U 3'
+            GGGU    CC     CCUUGC    
+            UCUA    GG     GGGACG    
+miRNA  3' GU    AUA   UAA        C 5'
+
+
+target: ENST00000507892_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.066196
+
+position  43
+target 5' G     GGCGC  AAGAC      A 3'
+           GAGAU     UC     CCCUGC    
+           UUCUA     AG     GGGACG    
+miRNA  3' G     AU     GUAA       C 5'
+
+
+target: ENST00000507892_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -19.5 kcal/mol
+p-value: 0.244550
+
+position  1
+target 5'  U    GAAG  UCGGG      U 3'
+            GGGU    CC     CCUUGC    
+            UCUA    GG     GGGACG    
+miRNA  3' GU    AUA   UAA        C 5'
+
+
+target: ENST00000506831_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.066196
+
+position  43
+target 5' G     GGCGC  AAGAC      A 3'
+           GAGAU     UC     CCCUGC    
+           UUCUA     AG     GGGACG    
+miRNA  3' G     AU     GUAA       C 5'
+
+
+target: ENST00000506831_rs72856718_6_31157480_C_A_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -17.7 kcal/mol
+p-value: 0.608929
+
+position  11
+target 5'         C   GG      U 3'
+                   UCA  CCUUGC    
+                   GGU  GGGACG    
+miRNA  3' GUUCUAAUA   AA      C 5'
+
+
+target: ENST00000506831_rs72856720_6_31157625_C_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -26.4 kcal/mol
+p-value: 0.002727
+
+position  42
+target 5' G    GG     G       A 3'
+           GGGA  GUCUA  CCCUGC    
+           UUCU  UAGGU  GGGACG    
+miRNA  3' G    AA     AA      C 5'
+
+
+target: ENST00000506831_rs72856720_6_31157625_C_G_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -11.5 kcal/mol
+p-value: 1.000000
+
+position  1
+target 5'                     C 3'
+                        UUCUGC    
+                        GGGACG    
+miRNA  3' GUUCUAAUAGGUAA      C 5'
+
+
+target: ENST00000376255_rs17197101_6_31158632_G_T_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -18.4 kcal/mol
+p-value: 0.443926
+
+position  19
+target 5'  C    GCAGCAACG    C      C 3'
+            AGAU         UCGU UCCUGC    
+            UCUA         GGUA GGGACG    
+miRNA  3' GU    AUA          A      C 5'
+
+
+target: ENST00000376257_rs17197101_6_31158632_G_T_36
+length: 71
+miRNA : 1364
+length: 21
+
+mfe: -18.4 kcal/mol
+p-value: 0.443926
+
+position  19
+target 5'  C    GCAGCAACG    C      C 3'
+            AGAU         UCGU UCCUGC    
+            UCUA         GGUA GGGACG    
+miRNA  3' GU    AUA          A      C 5'
+
+
