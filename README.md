@@ -65,9 +65,7 @@ A Python package for detecting the effect of gene mutation (SNP/InDel) on microR
 
 ## Output
 
-    ```
-    ./tests/output/result.txt
-    ```
+`./tests/output/result.txt`
 
 ## Contact
 
