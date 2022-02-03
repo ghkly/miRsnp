@@ -112,7 +112,3 @@ if __name__ == "__main__":
 
     sh = run_annovar(fpath_, humandb_)
     os.system('bash {}'.format(sh))
-
-    # fin = '../example/variants_input.xlsx'
-    # run_annovar(fin, humandb_)
-
